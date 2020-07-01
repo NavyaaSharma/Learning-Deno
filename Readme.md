@@ -9,9 +9,11 @@ Learn deno and explore the exciting RuntimeAPis, third party packages and get st
 
 ## Instructions to run
 
-#### git clone https://github.com/NavyaaSharma/Learning-Deno.git
-#### cd Learning-Deno
-#### deno run --allow-write app.ts
+```bash
+git clone https://github.com/NavyaaSharma/Learning-Deno.git
+cd Learning-Deno
+deno run --allow-write app.ts
+```
 
 ## Need help?
 
