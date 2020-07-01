@@ -4,14 +4,14 @@ Learn deno and explore the exciting RuntimeAPis, third party packages and get st
 
 ## Requirements
 
-You need to have Deno installed in your system
-To get deno [cickhere](https://deno.land/)
+#### You need to have Deno installed in your system
+#### To get deno [cickhere](https://deno.land/)
 
 ## Instructions to run
 
-git clone https://github.com/NavyaaSharma/Learning-Deno.git
-cd Learning-Deno
-deno run --allow-write app.ts
+#### git clone https://github.com/NavyaaSharma/Learning-Deno.git
+#### cd Learning-Deno
+#### deno run --allow-write app.ts
 
 ## Need help?
 
